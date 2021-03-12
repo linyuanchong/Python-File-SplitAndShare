@@ -1,0 +1,1 @@
+Run filesplitter.py via CMD in this directory to chop files.
